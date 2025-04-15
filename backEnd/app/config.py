@@ -1,7 +1,7 @@
 # app/config.py
 class Settings:
     # TODO MySQL 配置
-    MYSQL_HOST = "rm-bp1v89q506816tg9z1o.mysql.rds.aliyuncs.com"
+    MYSQL_HOST = "设置本地或者远程的mysql host"
     MYSQL_PORT = 3306
     MYSQL_USER = "zengyouRoot"
     MYSQL_PASSWORD = "zengyouRoot@"
